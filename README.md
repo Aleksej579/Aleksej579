@@ -19,7 +19,7 @@ Simple work with: |<code>Vue.js</code> <code>React.js</code>
 ---
 
 <details>
-  <summary>Web developer - 3 months</summary>
+  <summary>Web developer - <i>3 months</i></summary>
   <i>
     Training program (3 months).
     Shopify store development. 
@@ -30,7 +30,7 @@ Simple work with: |<code>Vue.js</code> <code>React.js</code>
 </details>
 
 <details>
-  <summary>Web developer 2 years</summary>
+  <summary>Web developer - <i>2 years</i></summary>
     <i>
     Development in CMS Drupal 7/8. HTML-CSS coding. Content management. Prototyping in Figma. Manual testing mobile app. <br>
     http://art-coral.com <pre>Drupal  Twig  Jquery  Rest  Html  Css  Gulp  Figma</pre>
@@ -38,7 +38,7 @@ Simple work with: |<code>Vue.js</code> <code>React.js</code>
 </details>
 
 <details>
-  <summary>Freelance 0,5 year</summary>
+  <summary>Freelance - <i>0,5 year</i></summary>
     <i>
       Making test tasks using different tools and technologies. <br>
       https://intertool.netlify.app <br> 
