@@ -6,26 +6,20 @@
   </samp>
 </p>
 
----
-
 ### GOAL
 
 >**HTML/CSS  coding.   Frontend Vue.js.**
 
----
-
 ### SKILLS
 
 >**HTML** (BEM-naming),  **CSS** (Sass, Tailwind, Bootstrap, SMACSS),  **Javascript ES6+**,  **Vue**,  **Vite/Gulp**,  **Git**,  **Jira**.
-
----
 
 ### KNOWLEDGE
 
 № | Experience of 3 years in companies  “Coralmedia”, “Intechsoft”, “Intertool”, freelance.
 ---|---
 1 | Prototyping in <code>Figma</code>.
-2 | I have experience using <code>Twig</code>, <code>Liquid</code>, <code>Mustache</code> templating engines.
+2 | I have experience using <code>Twig</code>, <code>Liquid</code> templating engines.
 3 | Writing styles in <code>Css/Sass</code>, frameworks <code>TailwindCSS</code>, <code>Element+</code>, <code>UiKit</code>.
 4 | Using <code>BEM-naming</code>, <code>SMACSS</code> methodology, Responsive.
 5 | Automation and build - <code>Vite</code>, <code>Gulp4</code>.
@@ -35,8 +29,6 @@
 9 | Working with <code>REST</code> (endpoints Drupal, test Postman) and <code>CRUD</code> (Axios, Express, Postgresql).
 10 | Using cloud services <code>Firebase</code> (deployment, authentication, database).
 11 | CMS development on <code>Drupal</code>, <code>Shopify</code>.
-
----
 
 <details>
   <summary>SOME OF MY WORK</summary>
