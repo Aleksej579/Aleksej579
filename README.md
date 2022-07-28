@@ -9,15 +9,15 @@
 ### Skills & Knowledge
 
 - Client-side development for a web application
-- I create <code>responsive</code> web design with <code>semantic</code> markup.
-- Using <code>BEM</code>-naming. Familiar with <code>Twig</code>, <code>Liquid</code>.
+- I create <code>responsive</code> web design with <code>semantic</code> markup. Using <code>BEM</code>-naming.
+- Familiar with <code>Twig</code>, <code>Liquid</code>.
 - Can work with <code>Sass</code> preprocessor and <code>Smacss</code> architecture.
-- Used css libraries like: <code>TailwindCSS</code>, <code>ElementUI+</code>, <code>UiKit</code> and some other.
-- Programming in <code>Javascript</code> (ES6+), can work with <code>jQuery</code> and have basic <code>PHP</code> skills.
+- Used css libraries like: <code>TailwindCSS</code> and some other.
+- Programming in <code>Javascript</code>, can work with <code>jQuery</code> and have basic <code>PHP</code> skills.
 - In SPA development I prefer to use <code>Vue.js</code>.
 - Using build tools <code>Vite.js</code> and <code>Gulp.js</code>. Some experience with <code>Webpack.js</code>.
 - I use <code>Git</code> and have worked with <code>Jira</code>.
-- CMS development on <code>Drupal</code>, <code>Shopify</code> and cloud services <code>Firebase</code>.
+- <code>Shopify</code> + <code>Liquid</code> development.
 - Creating a prototype in <code>Figma</code>. Working with raster and vector graphics and 3D modeling.                   
 
 ### Working experience
