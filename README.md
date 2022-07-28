@@ -10,7 +10,6 @@
 
 - Client-side development for a web application
 - I create <code>responsive</code> web design with <code>semantic</code> markup. Using <code>BEM</code>-naming.
-- Familiar with <code>Twig</code>, <code>Liquid</code>.
 - Can work with <code>Sass</code> preprocessor and <code>Smacss</code> architecture.
 - Used css libraries like: <code>TailwindCSS</code> and some other.
 - Programming in <code>Javascript</code>, can work with <code>jQuery</code> and have basic <code>PHP</code> skills.
