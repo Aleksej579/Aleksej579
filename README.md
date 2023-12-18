@@ -18,32 +18,29 @@
 
 ### Working experience
 
-№ | Front-end developer ( Freelance ) 6+ months.
+№ | Shopify developer ( freelance ) 1 year 4 months
 ---|---
-1 | Freelance and pet projects. Prototyping.
-2 | Markup, Vue, Vite, Tailwind, REST, CRUD, Express, Firebase, Smacss, Figma.
+1 | Shopify store development. Used Liquid, Metafields, Scheme, and JSON templates. Working through Theme Kit, Shopify CLI, task managers Asana, and Clikup. Create an Add-on on Express/Vercel/Cloudinary with a REST to the Printful. Markup by XD layout. RWD.  Teamwork in Git.
+2 | Shopify + Liquid + Remix + Printful + Cloudinary + Node + REST + Express + Vercel + Git
 
-№ | Front-end developer ( Intertool ) 4 months.
+№ | Front-end developer ( Intertool ) 4 months
 ---|---
-1 | Improving existing sites. Redesigning existing CSS, replacing graphics icons with SVG. Layout of new pages. Adapting for mobile devices. Development of new functionality such as a quick order basket. Simple work with PHP in Html of e.g. display a list of products. Working with Figma. Teamwork in Git.
-2 | Markup, BEM, Scss, Git, Gitlab, Gulp, Php, Figma.
+1 | Improving existing sites. Redesigning CSS. Creating SVG icons. Layout of new pages.  Adapting for mobile devices.  Development of new functionality such as a quick order basket.  Simple work with PHP in Html.  Markup by Figma layout.  Teamwork in Git.
+2 | Markup + BEM + Scss + Git + Gitlab + Gulp + Php + Figma
 
-№ | junior Shopify developer ( InTechSoft ) 4 months.
+№ | Junior Shopify developer ( InTechSoft ) 4 months
 ---|---
-1 | Internship. Learning Shopify eCommerce. Working with Jira. Creating and setting up the store. Developing new functionality for it on Liquid. Working with the project manager - creating reports and a weekly report to the supervisor with a demonstration of the work.
-2 | Shopify, Liquid, Markup, Git, Jira.
+1 | Shopify Internship.  Learning Shopify eCommerce.  Working with Jira.  Creating and setting up the store.  Developing new functionality for it on Liquid.  Working with the project manager - creating reports and a weekly report to the supervisor with a demonstration of the work.
+2 | Shopify + Liquid + Markup + Git + Jira
 
-№ | junior Front-end developer ( Art-coral ) 2 years.
+№ | Junior Front-end developer ( Art-coral ) 2 years
 ---|---
-1 | Drupal development. Markup. Working with REST. Content management. Prototyping in Figma. Manual testing of a mobile app.
-2 | Drupal, Html/Css/Sass, Twig, jQuery, REST, Gulp, Figma, Jira, Photoshop.
+1 | Drupal development. Markup. Working with REST.  Content management.  Prototyping in Figma. Manual testing of a mobile app.
+2 | Drupal + Markup + Twig + jQuery + REST + Gulp + Figma + Jira + Photoshop
 
 <details>
   <summary><h3>Summary<h3></summary>
   <ul>
-    <li>Self-Study: Freecodecamp , Hexlet , Sololearn , Codewars , w3schools, learn_javascript, etc.</li>
-    <li>Course: SourceIT 'Java and Web technologies'</li>
-    <li>University: Kharkiv National University of Civil Engineering and Architecture. The Architect.</li>
     <li>English: Pre-Intermediate.</li>
   </ul>
 </details>
