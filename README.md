@@ -8,16 +8,13 @@
 
 ### Skills & Knowledge
 
-- Client-side development for a web application
-- I create <code>responsive</code> web design with <code>semantic</code> markup. Using <code>BEM</code>-naming.
-- Can work with <code>Sass</code> preprocessor and <code>Smacss</code> architecture.
-- Used css libraries like: <code>TailwindCSS</code> and some other.
-- Programming in <code>Javascript</code>, can work with <code>jQuery</code> and have basic <code>PHP</code> skills.
-- In SPA development I prefer to use <code>Vue.js</code>.
-- Using build tools <code>Vite.js</code> and <code>Gulp.js</code>. Some experience with <code>Webpack.js</code>.
-- I use <code>Git</code> and have worked with <code>Jira</code>.
-- <code>Shopify</code> + <code>Liquid</code> development.
-- Creating a prototype in <code>Figma</code>. Working with raster and vector graphics and 3D modeling.                   
+- Shopify store development. 
+- Creating themes on Liquid, metafields, scheme, and JSON templates.
+- Creating custom storefronts on Hydrogen/Remix.
+- I create RWD with semantic markup and BEM-naming by Figma or XD layout.
+- Programming in Javascript or React. Styling on CSS or TailwindCSS, sometimes Sass.
+- I'm using the environment Theme-Kit and Shopify-CLI, Vite, and Node. 
+- Teamwork using Git on Jira or Clikup.                  
 
 ### Working experience
 
