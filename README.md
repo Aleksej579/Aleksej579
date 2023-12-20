@@ -14,7 +14,9 @@
 - I create RWD with semantic markup and BEM-naming by Figma or XD layout.
 - Programming in Javascript or React. Styling on CSS or TailwindCSS, sometimes Sass.
 - I'm using the environment Theme-Kit and Shopify-CLI, Vite, and Node. 
-- Teamwork using Git on Jira or Clikup.                  
+- Teamwork using Git on Jira or Clikup.
+
+  `Shopify`  `Liquid` `Remix` `Tailwind` `CSS/SASS` `Semantic HTML` `BEM` `RWD` `Git` `Figma`
 
 ### Working experience
 
